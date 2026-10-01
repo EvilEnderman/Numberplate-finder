@@ -28,7 +28,7 @@ Uncomment the last bit if you want to sub L for 1, Z for 2.
 ## Usage
 
 ```
-pip install "english-words"
+pip install "english-words>=2.0"
 python plates4.py
 ```
 

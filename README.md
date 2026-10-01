@@ -23,7 +23,7 @@ cool_letters2 = {
                  #"ZS": "25", "ZG": "26", "SL": "51", "SZ": "52", "GL": "61", "GZ": "62", "TL": "71", "TZ": "72"
                  }
 ```                 
-Uncomment the last bit if you want to sub L for 1, Z for 2.
+Uncomment the last bit (and the comma) if you want to sub L for 1, Z for 2.
 
 ## Usage
 

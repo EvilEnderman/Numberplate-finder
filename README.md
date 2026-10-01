@@ -5,6 +5,7 @@ Finds UK private registrations that read as words, by checking every word in an 
 The script takes every 4-letter word whose last two letters map to a valid number and turns it into the first half of a plate. Add whatever three letters you like on the end
 
 Here is the 'leet list'
+```python
 cool_letters2 = {
                  "OR": "02", "OE": "03", "OA": "04", "OS": "05", "OG": "06", "OT": "07", "OB": "08", "OP": "09",
                  "IO": "10", "II": "11", "IR": "12", "IE": "13", "IA": "14", "IS": "15", "IG": "16", "IT": "17",
@@ -21,7 +22,7 @@ cool_letters2 = {
                  #"ZI": "21", "RL": "21", "ZL": "21", "ZR": "22", "RZ": "22", "ZZ": "22", "ZE": "23", "ZA": "24",
                  #"ZS": "25", "ZG": "26", "SL": "51", "SZ": "52", "GL": "61", "GZ": "62", "TL": "71", "TZ": "72"
                  }
-                 
+```                 
 Uncomment the last bit if you want to sub L for 1, Z for 2.
 
 ## Usage

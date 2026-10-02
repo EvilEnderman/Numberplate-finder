@@ -29,10 +29,10 @@ Uncomment the last bit (and the comma) if you want to sub L for 1, Z for 2.
 
 ```
 pip install "english-words>=2.0"
-python plates4.py
+python plates5.py
 ```
 
-Results are written to `4LetterPlates2.txt`. A pre-generated copy is included in the repo if you just want to browse.
+Results are written to `4LetterPlates3.txt`. A pre-generated copy is included in the repo if you just want to browse.
 
 
 
